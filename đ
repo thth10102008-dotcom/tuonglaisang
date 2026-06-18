@@ -1,0 +1,349 @@
+<div id="thayTriDocumentPage" style="display: block;">
+    <div class="doc-header">
+        <div style="cursor: pointer; display: inline-flex; align-items: center; gap: 5px; background: rgba(255,255,255,0.2); padding: 8px 15px; border-radius: 10px; font-size: 0.85rem; font-weight: 700; margin-bottom: 15px;" onclick="goHome()">
+            <span class="material-symbols-outlined" style="font-size: 16px">arrow_back</span> Quay lại Trang chủ
+        </div>
+        <h2>HỆ THỐNG BÀI GIẢNG TOÁN 12 - THẦY TRÍ</h2>
+        <p style="opacity: 0.85; font-size: 0.95rem;">Hệ thống bài học chuẩn cấu trúc Bộ Giáo Dục.</p>
+    </div>
+
+    <div class="chapter-box">
+        <div class="chapter-title"><span class="material-symbols-outlined" style="color:var(--primary)">folder_open</span> CHƯƠNG I. ỨNG DỤNG ĐẠO HÀM ĐỂ KHẢO SÁT VÀ VẼ ĐỒ THỊ CỦA HÀM SỐ</div>
+        
+        <div class="lesson-box">
+            <div class="lesson-name">[BÀI 1] TÍNH ĐƠN ĐIỆU CỦA HÀM SỐ</div>
+            
+            <div class="sub-tiest">• [TIẾT 1] Tìm khoảng Đồng biến, Nghịch biến</div>
+            <div class="links-wrapper">
+                <a href="https://www.youtube.com/watch?v=tYQ-jRLEBJg" target="_blank" class="text-link link-video"><span class="material-symbols-outlined" style="font-size:15px">play_circle</span> Video</a>
+                <a href="https://drive.google.com/file/d/1AE1WTLNeiVkCWOo50A2uvl3_NCxqJwG3/view" target="_blank" class="text-link link-doc"><span class="material-symbols-outlined" style="font-size:15px">description</span> Tài liệu</a>
+                <a href="https://drive.google.com/file/d/13F4ghQW96LB-N6A1CWBiSeyQMT5-tdqd/view?usp=sharing" target="_blank" class="text-link link-btvn"><span class="material-symbols-outlined" style="font-size:15px">edit_document</span> BTVN</a>
+                <a href="https://thaychi.net/khoa-chuyen-de-lop-12-2008-ket-noi-tri-thuc/khoa-chuyen-de-lop-12-2008-ket-noi-tri-thuc.html?bg=4002&playvideo=iv6qRc1qmQs" target="_blank" class="text-link link-chua"><span class="material-symbols-outlined" style="font-size:15px">task_alt</span> Chữa BTVN</a>
+            </div>
+
+            <div class="sub-tiest">• LUYỆN TẬP TRẮC NGHIỆM ĐÚNG SAI (PHẦN 1)</div>
+            <div class="links-wrapper">
+                <a href="https://www.youtube.com/watch?v=IWXJ2st9DSU" target="_blank" class="text-link link-video"><span class="material-symbols-outlined" style="font-size:15px">play_circle</span> Video</a>
+                <a href="https://drive.google.com/file/d/1zRQgCWIhTHy86aHj-f0U8Lz7J-s7vKs5/view?usp=drive_link" target="_blank" class="text-link link-doc"><span class="material-symbols-outlined" style="font-size:15px">description</span> Tài liệu</a>
+            </div>
+
+            <div class="sub-tiest">• LUYỆN TẬP TRẮC NGHIỆM ĐÚNG SAI (PHẦN 2)</div>
+            <div class="links-wrapper">
+                <a href="https://www.youtube.com/watch?v=DHncfLjYYCQ" target="_blank" class="text-link link-video"><span class="material-symbols-outlined" style="font-size:15px">play_circle</span> Video</a>
+                <a href="https://drive.google.com/file/d/1KqtiSdFbXfC23K9AUGBoeB1k6Ip9NJIW/view?usp=drive_link" target="_blank" class="text-link link-doc"><span class="material-symbols-outlined" style="font-size:15px">description</span> Tài liệu</a>
+            </div>
+
+            <div class="sub-tiest">• [TIẾT 2] Biện luận tính đơn điệu theo tham số m (Buổi 1)</div>
+            <div class="links-wrapper">
+                <a href="https://www.youtube.com/watch?v=tqJt4Mkt4p0" target="_blank" class="text-link link-video"><span class="material-symbols-outlined" style="font-size:15px">play_circle</span> Video</a>
+                <a href="https://drive.google.com/file/d/1vQl7qQtSxFLS-n9apg9qyVx0tgYDnZj2/view?usp=sharing" target="_blank" class="text-link link-doc"><span class="material-symbols-outlined" style="font-size:15px">description</span> Tài liệu</a>
+                <a href="https://drive.google.com/file/d/13ImQfbfdYIJQ75hkNCUYGioc4RIqRBzO/view?usp=sharing" target="_blank" class="text-link link-btvn"><span class="material-symbols-outlined" style="font-size:15px">edit_document</span> BTVN</a>
+                <a href="https://thaychi.net/khoa-chuyen-de-lop-12-2008-ket-noi-tri-thuc/khoa-chuyen-de-lop-12-2008-ket-noi-tri-thuc.html?bg=4007&playvideo=crTd7hEDAho" target="_blank" class="text-link link-chua"><span class="material-symbols-outlined" style="font-size:15px">task_alt</span> Chữa BTVN</a>
+            </div>
+
+            <div class="sub-tiest">• Biện luận tính đơn điệu theo tham số m (Buổi 2)</div>
+            <div class="links-wrapper">
+                <a href="https://www.youtube.com/watch?v=Ua7ncuPgSvQ" target="_blank" class="text-link link-video"><span class="material-symbols-outlined" style="font-size:15px">play_circle</span> Video</a>
+                <a href="https://drive.google.com/file/d/1vi2-Aee9bjNkmjwkpiMieS6-1nMnMnW7/view?usp=sharing" target="_blank" class="text-link link-doc"><span class="material-symbols-outlined" style="font-size:15px">description</span> Tài liệu</a>
+                <a href="https://drive.google.com/file/d/1vr0qMtZ7dGMZQjWqaxVwyHLOPtPw_6Mc/view?usp=sharing" target="_blank" class="text-link link-btvn"><span class="material-symbols-outlined" style="font-size:15px">edit_document</span> BTVN</a>
+                <a href="https://thaychi.net/khoa-chuyen-de-lop-12-2008-ket-noi-tri-thuc/khoa-chuyen-de-lop-12-2008-ket-noi-tri-thuc.html?bg=4008&playvideo=MAxUbO9nUx8" target="_blank" class="text-link link-chua"><span class="material-symbols-outlined" style="font-size:15px">task_alt</span> Chữa BTVN</a>
+            </div>
+
+            <div class="sub-tiest">• LUYỆN TẬP BIỆN LUẬN TÍNH ĐƠN ĐIỆU HÀM SỐ</div>
+            <div class="links-wrapper">
+                <a href="https://www.youtube.com/watch?v=SQbxJIa0JIM" target="_blank" class="text-link link-video"><span class="material-symbols-outlined" style="font-size:15px">play_circle</span> Video</a>
+                <a href="https://drive.google.com/open?id=16fpvdChKomhW8zeAgKSIICRTf4eWSat&usp=drive_fs" target="_blank" class="text-link link-doc"><span class="material-symbols-outlined" style="font-size:15px">description</span> Tài liệu</a>
+            </div>
+
+            <div class="sub-tiest">• [TIẾT 3] LUYỆN TẬP TÍNH ĐƠN ĐIỆU</div>
+            <div class="links-wrapper">
+                <a href="https://www.youtube.com/watch?v=BNOPJ4JaanM" target="_blank" class="text-link link-video"><span class="material-symbols-outlined" style="font-size:15px">play_circle</span> Video</a>
+                <a href="https://drive.google.com/file/d/13HrdbIllh4Pr_Rqhu8lSGSwj28lQ8dXb/view?usp=sharing" target="_blank" class="text-link link-doc"><span class="material-symbols-outlined" style="font-size:15px">description</span> Tài liệu</a>
+            </div>
+        </div>
+
+        <div class="lesson-box">
+            <div class="lesson-name">[BÀI 2] CỰC TRỊ HÀM SỐ</div>
+            
+            <div class="sub-tiest">• [TIẾT 1] Xác định cực trị (Cực đại, cực tiểu)</div>
+            <div class="links-wrapper">
+                <a href="https://www.youtube.com/watch?v=SMPfLiCQVms" target="_blank" class="text-link link-video"><span class="material-symbols-outlined" style="font-size:15px">play_circle</span> Video</a>
+                <a href="https://drive.google.com/file/d/1AGNYA9e9qcL2yx_KT6Y7Ydl6Oprtrhh8/view?usp=drive_link" target="_blank" class="text-link link-doc"><span class="material-symbols-outlined" style="font-size:15px">description</span> Tài liệu</a>
+                <a href="https://drive.google.com/file/d/1djECwdeyRVm9WVgaxPYVzOlLow8gTzuJ/view?usp=sharing" target="_blank" class="text-link link-btvn"><span class="material-symbols-outlined" style="font-size:15px">edit_document</span> BTVN</a>
+                <a href="https://thaychi.net/khoa-chuyen-de-lop-12-2008-ket-noi-tri-thuc/khoa-chuyen-de-lop-12-2008-ket-noi-tri-thuc.html?bg=4016&playvideo=h3aS8OvFoMM" target="_blank" class="text-link link-chua"><span class="material-symbols-outlined" style="font-size:15px">task_alt</span> Chữa BTVN</a>
+            </div>
+
+            <div class="sub-tiest">• [TIẾT 2] KHẢO SÁT HÀM SỐ MŨ, LOGARIT, LƯỢNG GIÁC</div>
+            <div class="links-wrapper">
+                <a href="https://www.youtube.com/watch?v=bl3RANzmon0" target="_blank" class="text-link link-video"><span class="material-symbols-outlined" style="font-size:15px">play_circle</span> Video</a>
+                <a href="https://drive.google.com/open?id=1VqqpZuMFrXIDpQJBzXiTetnmuMEHtbyo&usp=drive_fs" target="_blank" class="text-link link-doc"><span class="material-symbols-outlined" style="font-size:15px">description</span> Tài liệu</a>
+            </div>
+
+            <div class="sub-tiest">• LUYỆN TẬP DẠNG BÀI "ĐÚNG SAI - TRẢ LỜI NGẮN"</div>
+            <div class="links-wrapper">
+                <a href="https://www.youtube.com/watch?v=mtrqZ5vqF-M" target="_blank" class="text-link link-video"><span class="material-symbols-outlined" style="font-size:15px">play_circle</span> Video</a>
+                <a href="https://drive.google.com/file/d/1sp2zcG9upTRBbem2jAcVUlb6tFzTVexV/view?usp=drive_link" target="_blank" class="text-link link-doc"><span class="material-symbols-outlined" style="font-size:15px">description</span> Tài liệu</a>
+                <a href="https://drive.google.com/file/d/1qDIHBdlowPgtyaS-HUQH8wmU-qIYd48F/view?usp=drive_link" target="_blank" class="text-link link-btvn"><span class="material-symbols-outlined" style="font-size:15px">edit_document</span> BTVN</a>
+            </div>
+
+            <div class="sub-tiest">• [TIẾT 3] Tìm m để hàm số đạt cực đại, cực tiểu tại 1 điểm</div>
+            <div class="links-wrapper">
+                <a href="https://www.youtube.com/watch?v=o0SJjHHjbwA" target="_blank" class="text-link link-video"><span class="material-symbols-outlined" style="font-size:15px">play_circle</span> Video</a>
+                <a href="https://drive.google.com/file/d/1BcQfuEa2WfXAZz8ZjMO3bgTI45L2lAz4/view?usp=drive_link" target="_blank" class="text-link link-doc"><span class="material-symbols-outlined" style="font-size:15px">description</span> Tài liệu</a>
+                <a href="https://drive.google.com/file/d/1DlCaKubMERW7bZN4jeOrGfIVzrjnz8PS/view?usp=drive_link" target="_blank" class="text-link link-btvn"><span class="material-symbols-outlined" style="font-size:15px">edit_document</span> BTVN</a>
+                <a href="https://thaychi.net/khoa-chuyen-de-lop-12-2008-ket-noi-tri-thuc/khoa-chuyen-de-lop-12-2008-ket-noi-tri-thuc.html?bg=4018&playvideo=eLgIAb1tHBc" target="_blank" class="text-link link-chua"><span class="material-symbols-outlined" style="font-size:15px">task_alt</span> Chữa BTVN</a>
+            </div>
+
+            <div class="sub-tiest">• [TIẾT 4] Cực trị hàm số bậc 3</div>
+            <div class="links-wrapper">
+                <a href="https://www.youtube.com/watch?v=FxWnFtm70XI" target="_blank" class="text-link link-video"><span class="material-symbols-outlined" style="font-size:15px">play_circle</span> Video</a>
+                <a href="https://drive.google.com/file/d/1BfeLFB5iXQ4M1wniMs_sgUu9dD6emnAy/view?usp=drive_link" target="_blank" class="text-link link-doc"><span class="material-symbols-outlined" style="font-size:15px">description</span> Tài liệu</a>
+            </div>
+
+            <div class="sub-tiest">• [TIẾT 5] Cực trị hàm số bậc 2 trên bậc 1</div>
+            <div class="links-wrapper">
+                <a href="https://www.youtube.com/watch?v=HeB0omTqn-E" target="_blank" class="text-link link-video"><span class="material-symbols-outlined" style="font-size:15px">play_circle</span> Video</a>
+                <a href="https://drive.google.com/file/d/1dATVyxpOn9JAsUjRlZNm9pnlAiYnM19G/view?usp=drive_link" target="_blank" class="text-link link-doc"><span class="material-symbols-outlined" style="font-size:15px">description</span> Tài liệu</a>
+            </div>
+        </div>
+
+        <div class="lesson-box">
+            <div class="lesson-name">[BÀI 3] GTLN - GTNN CỦA HÀM SỐ</div>
+            
+            <div class="sub-tiest">• [TIẾT 1] Tìm GTLN, GTNN của hàm số trên đoạn</div>
+            <div class="links-wrapper">
+                <a href="https://www.youtube.com/watch?v=3yI4qHpDBis" target="_blank" class="text-link link-video"><span class="material-symbols-outlined" style="font-size:15px">play_circle</span> Video</a>
+                <a href="https://drive.google.com/file/d/1CKcVgniZ8cE-iq6Vky7wClZh2yP0gqf4/view?usp=drive_link" target="_blank" class="text-link link-doc"><span class="material-symbols-outlined" style="font-size:15px">description</span> Tài liệu</a>
+            </div>
+
+            <div class="sub-tiest">• [TIẾT 2] Tìm GTLN, GTNN của hàm số trên khoảng, đặt ẩn phụ</div>
+            <div class="links-wrapper">
+                <a href="https://www.youtube.com/watch?v=pen92Ycybns" target="_blank" class="text-link link-video"><span class="material-symbols-outlined" style="font-size:15px">play_circle</span> Video</a>
+                <a href="https://drive.google.com/file/d/1CL9fwgcwruMSQ6JommIgV97frurO2LvV/view?usp=drive_link" target="_blank" class="text-link link-doc"><span class="material-symbols-outlined" style="font-size:15px">description</span> Tài liệu</a>
+            </div>
+
+            <div class="sub-tiest">• [TIẾT 3] Tìm điều kiện để hàm số đạt GTLN, GTNN</div>
+            <div class="links-wrapper">
+                <a href="https://www.youtube.com/watch?v=yWlQYu8MN5c" target="_blank" class="text-link link-video"><span class="material-symbols-outlined" style="font-size:15px">play_circle</span> Video</a>
+                <a href="https://drive.google.com/file/d/1E2mi7UnCT0F6NhkVxvuVpFRQ1HkWz4IH/view" target="_blank" class="text-link link-doc"><span class="material-symbols-outlined" style="font-size:15px">description</span> Tài liệu</a>
+                <a href="https://drive.google.com/file/d/13XCV6ZkB_vWESaQdyZ28Rbd_-X_gZBLa/view?usp=sharing" target="_blank" class="text-link link-btvn"><span class="material-symbols-outlined" style="font-size:15px">edit_document</span> BTVN</a>
+                <a href="https://thaychi.net/khoa-chuyen-de-lop-12-2008-ket-noi-tri-thuc/khoa-chuyen-de-lop-12-2008-ket-noi-tri-thuc.html?bg=4039&playvideo=eyhv1P05T28" target="_blank" class="text-link link-chua"><span class="material-symbols-outlined" style="font-size:15px">task_alt</span> Chữa BTVN</a>
+            </div>
+        </div>
+
+        <div class="lesson-box">
+            <div class="lesson-name">[BÀI 4] ỨNG DỤNG THỰC TẾ</div>
+            
+            <div class="sub-tiest">• [TIẾT 1] Bài toán thực tế Đồng biến, Nghịch biến</div>
+            <div class="links-wrapper">
+                <a href="https://www.youtube.com/watch?v=1zBeAvPQQnM" target="_blank" class="text-link link-video"><span class="material-symbols-outlined" style="font-size:15px">play_circle</span> Video</a>
+                <a href="https://drive.google.com/open?id=13tFSMI7K49Hvre7dwgll4obd-b3rYRB5&usp=drive_fs" target="_blank" class="text-link link-doc"><span class="material-symbols-outlined" style="font-size:15px">description</span> Tài liệu</a>
+                <a href="https://drive.google.com/file/d/1wLHg0TiL4qDEs6sfgtgArMGxCHjoc8wD/view?usp=drive_link" target="_blank" class="text-link link-btvn"><span class="material-symbols-outlined" style="font-size:15px">edit_document</span> BTVN</a>
+            </div>
+
+            <div class="sub-tiest">• [TIẾT 2]: Ứng dụng đạo hàm tìm GTLN, GTNN - Bài toán liên quan đến thực tiễn</div>
+            <div class="links-wrapper">
+                <a href="https://www.youtube.com/watch?v=MF9bkVrNQ9s" target="_blank" class="text-link link-video"><span class="material-symbols-outlined" style="font-size:15px">play_circle</span> Video</a>
+                <a href="https://drive.google.com/open?id=19RIqwCTISQ88_ErpK1iA-UHa8AsUzlOX&usp=drive_fs" target="_blank" class="text-link link-doc"><span class="material-symbols-outlined" style="font-size:15px">description</span> Tài liệu</a>
+                <a href="https://drive.google.com/open?id=19h_xaCydAQpLBjf7oFnkub-0K8phGnNy&usp=drive_fs" target="_blank" class="text-link link-btvn"><span class="material-symbols-outlined" style="font-size:15px">edit_document</span> BTVN</a>
+            </div>
+
+            <div class="sub-tiest">• [TIẾT 3]: Ứng dụng đạo hàm tìm GTLN, GTNN - Khối đa diện</div>
+            <div class="links-wrapper">
+                <a href="https://www.youtube.com/watch?v=JPdz_ftggdo" target="_blank" class="text-link link-video"><span class="material-symbols-outlined" style="font-size:15px">play_circle</span> Video</a>
+                <a href="https://drive.google.com/open?id=1FPc2Bh9Zr7EPeQFZmsOh_0pl41eXdo1p&usp=drive_fs" target="_blank" class="text-link link-doc"><span class="material-symbols-outlined" style="font-size:15px">description</span> Tài liệu</a>
+            </div>
+
+            <div class="sub-tiest">• [TIẾT 4]: Ứng dụng đạo hàm tìm GTLN, GTNN - Khối tròn xoay</div>
+            <div class="links-wrapper">
+                <a href="https://www.youtube.com/watch?v=JPdz_ftggdo" target="_blank" class="text-link link-video"><span class="material-symbols-outlined" style="font-size:15px">play_circle</span> Video</a>
+                <a href="https://drive.google.com/open?id=1DTznDuxpd7FWdvfDpXy75onlVU__aaPB&usp=drive_fs" target="_blank" class="text-link link-doc"><span class="material-symbols-outlined" style="font-size:15px">description</span> Tài liệu</a>
+            </div>
+
+            <div class="sub-tiest">• [TIẾT 5]: Các bài toán tối ưu lợi nhuận</div>
+            <div class="links-wrapper">
+                <a href="https://www.youtube.com/watch?v=RnTXpA_CgzY" target="_blank" class="text-link link-video"><span class="material-symbols-outlined" style="font-size:15px">play_circle</span> Video</a>
+                <a href="https://drive.google.com/open?id=1TXPS6uT9rTjkGqgC3ixPJN8ozPewWsSh&usp=drive_fs" target="_blank" class="text-link link-doc"><span class="material-symbols-outlined" style="font-size:15px">description</span> Tài liệu</a>
+            </div>
+        </div>
+
+        <div class="lesson-box">
+            <div class="lesson-name">[BÀI 5] ĐƯỜNG TIỆM CẬN</div>
+            
+            <div class="sub-tiest">• Tiết 1: Xác định đường tiệm cận đứng, đường tiệm cận ngang</div>
+            <div class="links-wrapper">
+                <a href="https://www.youtube.com/watch?v=kQD0SEENI7M" target="_blank" class="text-link link-video"><span class="material-symbols-outlined" style="font-size:15px">play_circle</span> Video</a>
+                <a href="https://drive.google.com/file/d/13sSbYyXNBjhdNE9qKzAd0Lm3b3flniaz/view?usp=sharing" target="_blank" class="text-link link-doc"><span class="material-symbols-outlined" style="font-size:15px">description</span> Tài liệu</a>
+                <a href="https://drive.google.com/file/d/13ofEoEfaJ4JXM8C46MtnuqOgBwLcmprL/view?usp=sharing" target="_blank" class="text-link link-btvn"><span class="material-symbols-outlined" style="font-size:15px">edit_document</span> BTVN</a>
+            </div>
+
+            <div class="sub-tiest">• Tiết 2: Biện luận đường tiệm cận đứng, tiệm cận ngang</div>
+            <div class="links-wrapper">
+                <a href="https://www.youtube.com/watch?v=lmTpLisq3GM" target="_blank" class="text-link link-video"><span class="material-symbols-outlined" style="font-size:15px">play_circle</span> Video</a>
+                <a href="https://drive.google.com/file/d/1xvY9YvPso_9wQyIhc0ElVHC9WuRk59mQ/view?usp=sharing" target="_blank" class="text-link link-doc"><span class="material-symbols-outlined" style="font-size:15px">description</span> Tài liệu</a>
+                <a href="https://drive.google.com/file/d/13mquDgYnEpWHauaQxKCMY05Wr5So1xid/view?usp=sharing" target="_blank" class="text-link link-btvn"><span class="material-symbols-outlined" style="font-size:15px">edit_document</span> BTVN</a>
+            </div>
+
+            <div class="sub-tiest">• Tiết 3: Đường tiệm cận xiên</div>
+            <div class="links-wrapper">
+                <a href="https://www.youtube.com/watch?v=sR2VCu1C96Q" target="_blank" class="text-link link-video"><span class="material-symbols-outlined" style="font-size:15px">play_circle</span> Video</a>
+                <a href="https://drive.google.com/file/d/1GM4s4BcpJb1dXzt4XxMuqtquNGq4S3T5/view?usp=drive_link" target="_blank" class="text-link link-doc"><span class="material-symbols-outlined" style="font-size:15px">description</span> Tài liệu</a>
+                <a href="https://drive.google.com/file/d/1TYaB7vjxFHHTITeA2jreBvTZCYFbuNjv/view?usp=sharing" target="_blank" class="text-link link-btvn"><span class="material-symbols-outlined" style="font-size:15px">edit_document</span> BTVN</a>
+            </div>
+        </div>
+
+        <div class="lesson-box">
+            <div class="lesson-name">[BÀI 6] ĐỒ THỊ HÀM SỐ</div>
+            
+            <div class="sub-tiest">• [TIẾT 1] KHẢO SÁT ĐỒ THỊ HÀM SỐ BẬC 3</div>
+            <div class="links-wrapper">
+                <a href="https://www.youtube.com/watch?v=eyq9AdydeTY" target="_blank" class="text-link link-video"><span class="material-symbols-outlined" style="font-size:15px">play_circle</span> Video</a>
+                <a href="https://drive.google.com/file/d/1XjwIkdkyovH723AwqK-KeOPlns2EBc1h/view?usp=sharing" target="_blank" class="text-link link-doc"><span class="material-symbols-outlined" style="font-size:15px">description</span> Tài liệu</a>
+                <a href="https://drive.google.com/file/d/1h9S1ANYvSuiGdY37mYuaZsNNgajS7B18/view?usp=sharing" target="_blank" class="text-link link-btvn"><span class="material-symbols-outlined" style="font-size:15px">edit_document</span> BTVN</a>
+            </div>
+
+            <div class="sub-tiest">• [TIẾT 2] KHẢO SÁT ĐỒ THỊ HÀM SỐ PHÂN THỨC BẬC NHẤT / BẬC NHẤT</div>
+            <div class="links-wrapper">
+                <a href="https://www.youtube.com/watch?v=yaI4CIJ1D_0" target="_blank" class="text-link link-video"><span class="material-symbols-outlined" style="font-size:15px">play_circle</span> Video</a>
+                <a href="https://drive.google.com/file/d/1KemwEnZvvsQ1tTZ9AZXf8NSRWvnMnsHN/view?usp=sharing" target="_blank" class="text-link link-doc"><span class="material-symbols-outlined" style="font-size:15px">description</span> Tài liệu</a>
+                <a href="https://drive.google.com/file/d/1UZXzhjgz2TJWvoK2wD9v7ua4U8t7Z__1/view?usp=sharing" target="_blank" class="text-link link-btvn"><span class="material-symbols-outlined" style="font-size:15px">edit_document</span> BTVN</a>
+            </div>
+            
+            <div class="sub-tiest">• [TIẾT 3] KHẢO SÁT ĐỒ THỊ PHÂN THỨC BẬC 2 TRÊN BẬC 1</div>
+            <div class="links-wrapper">
+                <a href="https://www.youtube.com/watch?v=IgalCIkfdGU" target="_blank" class="text-link link-video"><span class="material-symbols-outlined" style="font-size:15px">play_circle</span> Video</a>
+                <a href="https://drive.google.com/open?id=1u9aSAUBChiNb1jDYJu83j7AWymF05SiW&usp=drive_fs" target="_blank" class="text-link link-doc"><span class="material-symbols-outlined" style="font-size:15px">description</span> Tài liệu</a>
+                <a href="https://drive.google.com/open?id=1rH71jHIKh01gdcOIv1VIB_T8cotYMwkQ&usp=drive_fs" target="_blank" class="text-link link-btvn"><span class="material-symbols-outlined" style="font-size:15px">edit_document</span> BTVN</a>
+            </div>
+
+            <div class="sub-tiest">• [TIẾT 4] BÀI TOÁN THỰC TẾ ĐỒ THỊ</div>
+            <div class="links-wrapper">
+                <a href="https://www.youtube.com/watch?v=PfYeRzN-SBA" target="_blank" class="text-link link-video"><span class="material-symbols-outlined" style="font-size:15px">play_circle</span> Video</a>
+                <a href="https://drive.google.com/open?id=1IrioFdQmlwbvYeAFSLW2A6gW2iSmiE_X&usp=drive_fs" target="_blank" class="text-link link-doc"><span class="material-symbols-outlined" style="font-size:15px">description</span> Tài liệu</a>
+            </div>
+
+            <div class="sub-tiest">• [TIẾT 5] CÁCH VẼ ĐỒ THỊ HÀM SỐ CHỨA DẤU GIÁ TRỊ TUYỆT ĐỐI</div>
+            <div class="links-wrapper">
+                <a href="https://www.youtube.com/watch?v=wOxzFLc3buU" target="_blank" class="text-link link-video"><span class="material-symbols-outlined" style="font-size:15px">play_circle</span> Video</a>
+                <a href="https://drive.google.com/file/d/1gZ3eiF9EchI51yJFdedm2VTUvDnZWP_E/view?usp=sharing" target="_blank" class="text-link link-doc"><span class="material-symbols-outlined" style="font-size:15px">description</span> Tài liệu</a>
+                <a href="https://drive.google.com/file/d/1M_z9VA2tc35vX7Z7bmzlMR96P0pARJDS/view?usp=sharing" target="_blank" class="text-link link-btvn"><span class="material-symbols-outlined" style="font-size:15px">edit_document</span> BTVN</a>
+            </div>
+
+            <div class="sub-tiest">• [TIẾT 6] ĐẾM SỐ NGHIỆM & BIỆN LUẬN PHƯƠNG TRÌNH DỰA VÀO ĐỒ THỊ</div>
+            <div class="links-wrapper">
+                <a href="https://www.youtube.com/watch?v=kf-mVmlTNwI" target="_blank" class="text-link link-video"><span class="material-symbols-outlined" style="font-size:15px">play_circle</span> Video</a>
+                <a href="https://drive.google.com/file/d/1U6jK6aLSLgfcJI2rHkZhwVOv1EvAnwam/view?usp=sharing" target="_blank" class="text-link link-doc"><span class="material-symbols-outlined" style="font-size:15px">description</span> Tài liệu</a>
+                <a href="https://drive.google.com/file/d/147OahlfAcp36pDl_QahwvvKsSIa0k9kB/view?usp=sharing" target="_blank" class="text-link link-btvn"><span class="material-symbols-outlined" style="font-size:15px">edit_document</span> BTVN</a>
+            </div>
+        </div>
+    </div>
+
+    <div class="chapter-box">
+        <div class="chapter-title"><span class="material-symbols-outlined" style="color:var(--primary)">folder_open</span> CHƯƠNG II. VECTƠ VÀ HỆ TOẠ ĐỘ TRONG KHÔNG GIAN</div>
+        
+        <div class="lesson-box">
+            <div class="lesson-name">[BÀI 1] CÁC PHÉP TOÁN VECTƠ TRONG KHÔNG GIAN</div>
+            
+            <div class="sub-tiest">• KHÁI NIỆM VÀ QUY TẮC VECTƠ TRONG KHÔNG GIAN</div>
+            <div class="links-wrapper">
+                <a href="https://www.youtube.com/watch?v=JSCSafUlZoQ" target="_blank" class="text-link link-video"><span class="material-symbols-outlined" style="font-size:15px">play_circle</span> Video</a>
+                <a href="https://drive.google.com/file/d/1AsShUYcqkn9WdSbL8sCfT6w9rlpiBJdc/view?usp=drive_link" target="_blank" class="text-link link-doc"><span class="material-symbols-outlined" style="font-size:15px">description</span> Tài liệu</a>
+            </div>
+
+            <div class="sub-tiest">• PHÉP TOÁN VECTƠ TRONG HÌNH CHÓP, TỨ DIỆN</div>
+            <div class="links-wrapper">
+                <a href="https://www.youtube.com/watch?v=BfF3u9276WQ" target="_blank" class="text-link link-video"><span class="material-symbols-outlined" style="font-size:15px">play_circle</span> Video</a>
+                <a href="https://drive.google.com/file/d/1AspVtaMutksdnWYRWWm2iADYMz3a6fDM/view?usp=drive_link" target="_blank" class="text-link link-doc"><span class="material-symbols-outlined" style="font-size:15px">description</span> Tài liệu</a>
+            </div>
+
+            <div class="sub-tiest">• PHÉP TOÁN VECTƠ TRONG HÌNH HỘP, LĂNG TRỤ</div>
+            <div class="links-wrapper">
+                <a href="https://www.youtube.com/watch?v=lSLP8HCfCt8" target="_blank" class="text-link link-video"><span class="material-symbols-outlined" style="font-size:15px">play_circle</span> Video</a>
+                <a href="https://drive.google.com/file/d/1AuhCAByXLe6ng-xIdB0aCWnOtm-L0T0n/view?usp=drive_link" target="_blank" class="text-link link-doc"><span class="material-symbols-outlined" style="font-size:15px">description</span> Tài liệu</a>
+            </div>
+            
+            <div class="sub-tiest">• BÀI TOÁN THỰC TẾ TỔNG HỢP LỰC</div>
+            <div class="links-wrapper">
+                <a href="https://www.youtube.com/watch?v=KRRjqMlCCU0" target="_blank" class="text-link link-video"><span class="material-symbols-outlined" style="font-size:15px">play_circle</span> Video</a>
+                <a href="https://drive.google.com/file/d/1BHxGHZeQWtmvVSWok1Bi73G1MYn6-5c5/view?usp=drive_link" target="_blank" class="text-link link-doc"><span class="material-symbols-outlined" style="font-size:15px">description</span> Tài liệu</a>
+            </div>
+        </div>
+
+        <div class="lesson-box">
+            <div class="lesson-name">[BÀI 2] GÓC GIỮA 2 VECTƠ - TÍCH VÔ HƯỚNG 2 VECTƠ</div>
+            
+            <div class="sub-tiest">• GÓC GIỮA 2 VECTƠ - TÍCH VÔ HƯỚNG 2 VECTƠ</div>
+            <div class="links-wrapper">
+                <a href="https://www.youtube.com/watch?v=WfSajPMmBJ4" target="_blank" class="text-link link-video"><span class="material-symbols-outlined" style="font-size:15px">play_circle</span> Video</a>
+                <a href="https://drive.google.com/file/d/10gNcpLiZUXzzkvllv4AvlkIrehxAycOW/view?usp=drive_link" target="_blank" class="text-link link-doc"><span class="material-symbols-outlined" style="font-size:15px">description</span> Tài liệu</a>
+                <a href="https://drive.google.com/file/d/1ysx4va0Bt4jflkXN1SK0klDMGJ6gjF6t/view?usp=drive_link" target="_blank" class="text-link link-btvn"><span class="material-symbols-outlined" style="font-size:15px">edit_document</span> BTVN</a>
+            </div>
+        </div>
+        
+        <div class="lesson-box">
+            <div class="lesson-name">[BÀI 3] CÔNG THỨC TỌA ĐỘ VECTƠ TRONG KHÔNG GIAN</div>
+            <div class="sub-tiest">• [TIẾT 1] TỌA ĐỘ ĐIỂM, TỌA ĐỘ VECTƠ (Dựa vào nội dung đã học)</div>
+            <div class="links-wrapper">
+                <a href="#" class="text-link link-doc"><span class="material-symbols-outlined" style="font-size:15px">description</span> Đang cập nhật nội dung</a>
+            </div>
+        </div>
+    </div>
+
+    <div class="chapter-box">
+        <div class="chapter-title"><span class="material-symbols-outlined" style="color:var(--primary)">folder_open</span> CHƯƠNG III. CÁC SỐ ĐẶC TRƯNG ĐO XU THẾ TRUNG TÂM CHO MẪU SỐ LIỆU GHÉP NHÓM</div>
+        
+        <div class="lesson-box">
+            <div class="lesson-name">[BÀI 1] SỐ TRUNG VỊ VÀ TỨ PHÂN VỊ CỦA MẪU SỐ LIỆU GHÉP NHÓM</div>
+            <div class="sub-tiest">• [TIẾT 1 - 2]: Phương sai, số trung vị và khoảng tứ phân vị mẫu số liệu ghép nhóm</div>
+            <div class="links-wrapper">
+                <a href="https://www.youtube.com/watch?v=6iOmsN6-jZ4" target="_blank" class="text-link link-video"><span class="material-symbols-outlined" style="font-size:15px">play_circle</span> Video</a>
+            </div>
+        </div>
+    </div>
+
+    <div class="chapter-box">
+        <div class="chapter-title"><span class="material-symbols-outlined" style="color:var(--primary)">folder_open</span> CHƯƠNG IV. NGUYÊN HÀM VÀ TÍCH PHÂN</div>
+        
+        <div class="lesson-box">
+            <div class="lesson-name">[BÀI 1] NGUYÊN HÀM & TÍCH PHÂN CĂN BẢN</div>
+            <div class="sub-tiest">• [TIẾT 1 - 2]: Định nghĩa Nguyên hàm, Định lý và bảng Nguyên hàm cơ bản, mở rộng</div>
+            <div class="links-wrapper">
+                <a href="https://www.youtube.com/watch?v=3M_A9w5fGg8" target="_blank" class="text-link link-video"><span class="material-symbols-outlined" style="font-size:15px">play_circle</span> Video</a>
+            </div>
+        </div>
+    </div>
+
+    <div class="chapter-box">
+        <div class="chapter-title"><span class="material-symbols-outlined" style="color:var(--primary)">folder_open</span> CHƯƠNG V. XÁC SUẤT CÓ ĐIỀU KIỆN</div>
+        
+        <div class="lesson-box">
+            <div class="lesson-name">[BÀI 1] XÁC SUẤT CÓ ĐIỀU KIỆN</div>
+            <div class="sub-tiest">• [TIẾT 1]: Lý thuyết xác suất có điều kiện và ví dụ áp dụng</div>
+            <div class="links-wrapper">
+                <a href="https://www.youtube.com/watch?v=9_C8KWhf2g8" target="_blank" class="text-link link-video"><span class="material-symbols-outlined" style="font-size:15px">play_circle</span> Video</a>
+                <a href="https://drive.google.com/file/d/1vqAVbN8ZA0_-N5Q3q4UnbTELf3NhYaoI/view?usp=sharing" target="_blank" class="text-link link-doc"><span class="material-symbols-outlined" style="font-size:15px">description</span> Tài liệu</a>
+                <a href="https://thaychi.net/khoa-chuyen-de-lop-12-2008-ket-noi-tri-thuc/khoa-chuyen-de-lop-12-2008-ket-noi-tri-thuc.html?bg=5098&playvideo=REo1vyO5nUc" target="_blank" class="text-link link-chua"><span class="material-symbols-outlined" style="font-size:15px">task_alt</span> Chữa BTVN</a>
+            </div>
+        </div>
+
+        <div class="lesson-box">
+            <div class="lesson-name">[BÀI 2] CÔNG THỨC NHÂN XÁC SUẤT VÀ SƠ ĐỒ HÌNH CÂY</div>
+            <div class="sub-tiest">• [TIẾT 1]: CÔNG THỨC NHÂN XÁC SUẤT</div>
+            <div class="links-wrapper">
+                <a href="https://www.youtube.com/watch?v=68E6XG0-4qg" target="_blank" class="text-link link-video"><span class="material-symbols-outlined" style="font-size:15px">play_circle</span> Video</a>
+                <a href="https://drive.google.com/open?id=1vIK76XoRND8vNmsS1r_80T4F_oRj6I8f&usp=drive_fs" target="_blank" class="text-link link-doc"><span class="material-symbols-outlined" style="font-size:15px">description</span> Tài liệu</a>
+            </div>
+            
+            <div class="sub-tiest">• [TIẾT 2]: SƠ ĐỒ HÌNH CÂY</div>
+            <div class="links-wrapper">
+                <a href="https://www.youtube.com/watch?v=vV7YJm7XGzo" target="_blank" class="text-link link-video"><span class="material-symbols-outlined" style="font-size:15px">play_circle</span> Video</a>
+                <a href="https://drive.google.com/open?id=1vLp87" target="_blank" class="text-link link-doc"><span class="material-symbols-outlined" style="font-size:15px">description</span> Tài liệu</a>
+            </div>
+        </div>
+    </div>
+
+    <div class="chapter-box chapter-locked">
+        <div class="chapter-title" style="color:var(--text-sub)"><span class="material-symbols-outlined">lock</span> CHƯƠNG VI. PHƯƠNG TRÌNH ĐƯỜNG THẲNG, MẶT PHẲNG, MẶT CẦU</div>
+        <p style="font-size:0.9rem; font-weight:600; color:var(--danger); margin-left:10px;">⚠️ Hiện tại Thầy Trí chưa cập nhật nội dung cho chương này trong tài liệu.</p>
+    </div>
+</div>
